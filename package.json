@@ -2,9 +2,9 @@
   "name": "amanda-react-boilerplate",
   "version": "1.0.0",
   "description": "Template for React, Webpack and Airbnb Linter",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "nodemon server/server.js",
     "compile": "webpack --watch"
   },
   "author": "Amanda Bullington",
